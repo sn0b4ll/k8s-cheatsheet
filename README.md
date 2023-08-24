@@ -8,6 +8,7 @@
 | `kubectl describe <res-type> <resource>` | Get details on a resource |
 | `kubectl delete <res-type> <resource>` | Delete a resource |
 | `kubectl logs <pod-name>` | Get logs for an pod |
+| `kubectl apply -f` | Apply an yaml file to the current cluster |
 
 
 ### Types of resources
