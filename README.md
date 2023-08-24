@@ -9,6 +9,7 @@
 | `kubectl delete <res-type> <resource>` | Delete a resource |
 | `kubectl logs <pod-name>` | Get logs for an pod |
 | `kubectl apply -f` | Apply an yaml file to the current cluster |
+| `kubectl rollout restart deployment <deployment_name>` | Restart a deployment |
 
 
 ### Types of resources
