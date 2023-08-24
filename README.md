@@ -19,6 +19,7 @@
 | pod | One container pod |
 | deployment |  |
 | service |  |
+| configmap | |
 
 ## How to configure ZSH for autocomplete
 Taken from [here](https://gist.github.com/GusAntoniassi/2f58e716b67f648d13f91c1d780b05bf).
